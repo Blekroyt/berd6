@@ -3,9 +3,6 @@
 import math
 import sys
 
-
-import sys
-
 if __name__ == '__main__':
     # Список .
     spisoks = []
